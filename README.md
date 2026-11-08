@@ -9,3 +9,5 @@ Apri le [Releases](https://github.com/thor469/minefrax-downloads/releases/latest
 - **release.json**: versione, dimensioni e impronte SHA256 dei file.
 
 La release corrente richiede Minecraft Java 26.2 e Fabric 0.20.1. Server: **pro22.gamehosting.it:3193**.
+
+Sito e wiki ufficiali: https://minefrax-32991.web.app
